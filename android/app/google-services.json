@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94231443466",
+    "project_id": "apptaxi-1dd71",
+    "storage_bucket": "apptaxi-1dd71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94231443466:android:5899a0442c0b587ad847f3",
+        "android_client_info": {
+          "package_name": "com.example.log_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94231443466-ref5t1en5ngolknaeq24321mk8noc70k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6DSFzHs2UJ8nR3tGNrsPx9n2bJ66vBYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94231443466-ref5t1en5ngolknaeq24321mk8noc70k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
